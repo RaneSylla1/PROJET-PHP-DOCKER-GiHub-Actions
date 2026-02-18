@@ -7,14 +7,14 @@
         body {
             font-family: Arial, sans-serif;
             max-width: 600px;
-            margin: 50px auto;
+            margin: 60px auto;
             padding: 20px;
             background-color: #662f2f;
         }
         h1 { color: #ffffff; }
         .info { 
             background: white;
-            padding: 15px;
+            padding: 18px;
             margin: 10px 0;
             border-radius: 5px;
         }
