@@ -27,5 +27,5 @@ jobs:
           file: ./Dockerfile
           push: true 
           tags:  
-            RaneSylla1/PROJET-PHP-DOCKER-GiHub-Actions:latest
-            RaneSylla1/PROJET-PHP-DOCKER-GiHub-Actions:${{ github.sha }}
+            ranesylla1/PROJET-PHP-DOCKER-GiHub-Actions:latest
+            sanesylla1/PROJET-PHP-DOCKER-GiHub-Actions:${{ github.sha }}
