@@ -28,4 +28,4 @@ jobs:
           push: true 
           tags:  
             ranesylla1/PROJET-PHP-DOCKER-GiHub-Actions:latest
-            sanesylla1/PROJET-PHP-DOCKER-GiHub-Actions:${{ github.sha }}
+            ranesylla1/PROJET-PHP-DOCKER-GiHub-Actions:${{ github.sha }}
